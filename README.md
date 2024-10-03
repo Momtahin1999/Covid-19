@@ -1,0 +1,1 @@
+This project investigates the relationship between COVID-19 vaccination rates and the number of deaths across different countries. By analyzing publicly available datasets, this analysis aims to identify trends, correlations, and potential insights regarding how vaccination rates may have influenced the severity of the pandemic in terms of deaths.
